@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.apppoli.app-merged_res-45:/drawable_noticia_badbunny.jpg.flat",
+        "source": "com.example.apppoli.app-main-47:/drawable/noticia_badbunny.jpg"
+    },
+    {
+        "merged": "/Users/williamferneyacostaruiz/.gradle/daemon/8.10.2/com.example.apppoli.app-merged_res-45:/drawable_portada_radio.png.flat",
+        "source": "/Users/williamferneyacostaruiz/.gradle/daemon/8.10.2/com.example.apppoli.app-main-47:/drawable/portada_radio.png"
+    },
+    {
+        "merged": "com.example.apppoli.app-merged_res-45:/drawable_noticia_shakira.jpg.flat",
+        "source": "com.example.apppoli.app-main-47:/drawable/noticia_shakira.jpg"
+    },
+    {
+        "merged": "/Users/williamferneyacostaruiz/.gradle/daemon/8.10.2/com.example.apppoli.app-merged_res-45:/drawable_logo_menu.png.flat",
+        "source": "/Users/williamferneyacostaruiz/.gradle/daemon/8.10.2/com.example.apppoli.app-main-47:/drawable/logo_menu.png"
+    },
+    {
+        "merged": "com.example.apppoli.app-merged_res-45:/drawable_noticia_medellin.jpg.flat",
+        "source": "com.example.apppoli.app-main-47:/drawable/noticia_medellin.jpg"
+    },
+    {
+        "merged": "com.example.apppoli.app-merged_res-45:/drawable_noticia_daddy.jpg.flat",
+        "source": "com.example.apppoli.app-main-47:/drawable/noticia_daddy.jpg"
+    },
+    {
+        "merged": "/Users/williamferneyacostaruiz/.gradle/daemon/8.10.2/com.example.apppoli.app-merged_res-45:/drawable_logo_radio.png.flat",
+        "source": "/Users/williamferneyacostaruiz/.gradle/daemon/8.10.2/com.example.apppoli.app-main-47:/drawable/logo_radio.png"
+    },
+    {
+        "merged": "com.example.apppoli.app-merged_res-45:/drawable_noticia_juanes.jpg.flat",
+        "source": "com.example.apppoli.app-main-47:/drawable/noticia_juanes.jpg"
+    }
+]
