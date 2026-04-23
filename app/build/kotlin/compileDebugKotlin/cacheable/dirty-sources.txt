@@ -1,0 +1,16 @@
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/screens/botones/BotonesScreen.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/components/CardNoticia.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/screens/fotos/FotosScreen.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/components/MenuLateral.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/data/model/Models.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/theme/Color.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/screens/video/VideoScreen.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/theme/Type.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/screens/MainScreen.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/MainActivity.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/data/repository/FakeData.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/components/Reproductor.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/components/CardTop.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/screens/web/WebScreen.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/screens/perfil/PerfilScreen.kt
+/Users/williamferneyacostaruiz/Documents/AppPoli/app/src/main/java/com/example/apppoli/ui/theme/Theme.kt
