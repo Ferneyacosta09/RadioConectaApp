@@ -34,8 +34,10 @@ object FakeData {
     )
 
     val videos = listOf(
-        VideoItem(1, "Provenza - Karol G", R.drawable.portada_radio),
-        VideoItem(2, "Monaco - Bad Bunny", R.drawable.portada_radio),
-        VideoItem(3, "Puntería - Shakira", R.drawable.portada_radio)
+        VideoItem(1, "CHÉVERE REMIX - Aria Vega ft. Ryan Castro", imagenRes = R.raw.video_top1),
+        VideoItem(2, "LA VILLA - Ryan Castro ft. Kapo", imagenRes = R.raw.video_top2),
+        VideoItem(3, "Dónde - Kapo ft. Ryan Castro", imagenRes = R.raw.video_top3),
+        VideoItem(4, "El Beneficio De La Duda - Grupo Firme", imagenRes = R.raw.video_top4),
+        VideoItem(5, "Swim - BTS", imagenRes = R.raw.video_top5)
     )
 }

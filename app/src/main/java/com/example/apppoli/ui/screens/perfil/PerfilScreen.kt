@@ -119,7 +119,7 @@ fun PerfilScreen() {
             title = "Contenido",
             content = {
                 Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
-                    ListItem("Top 10 semanal")
+                    ListItem("Top 5 semanal")
                     ListItem("Noticias musicales")
                     ListItem("Programación en vivo")
                 }

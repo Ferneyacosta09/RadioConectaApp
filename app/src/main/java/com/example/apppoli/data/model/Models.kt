@@ -9,5 +9,6 @@ data class Noticia(
 data class VideoItem(
     val ranking: Int,
     val titulo: String,
-    val imagenRes: Int = 0
+    val imagenRes: Int = 0,
+    val videoUrl: String = ""
 )

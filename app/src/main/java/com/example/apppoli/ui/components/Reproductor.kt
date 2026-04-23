@@ -142,7 +142,7 @@ fun Reproductor(
         )
 
         Text(
-            text = if (isPlaying) "95.7 FM — Estás conectado" else "La emisora que te mueve",
+            text = if (isPlaying) "Más que radio, somos tu compañía" else "Conéctate con nosotros",
             style = MaterialTheme.typography.bodyMedium,
             color = Color.White.copy(alpha = 0.7f),
             modifier = Modifier.padding(top = 8.dp)

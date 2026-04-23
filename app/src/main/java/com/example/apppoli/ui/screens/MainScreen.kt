@@ -51,7 +51,7 @@ fun MainScreen() {
                     text = when(selectedOption) {
                         "Perfil" -> "Perfil"
                         "Fotos" -> "Noticias"
-                        "Video" -> "Top 10"
+                        "Video" -> "Top 5"
                         "Web" -> "Página Web"
                         "Botones" -> "En Vivo"
                         else -> "App Poli"

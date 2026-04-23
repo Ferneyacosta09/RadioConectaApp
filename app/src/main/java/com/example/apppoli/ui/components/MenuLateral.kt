@@ -29,7 +29,7 @@ fun MenuLateral(
     val menuItems = listOf(
         Triple("Inicio", "Perfil", Icons.Default.Home),
         Triple("Noticias", "Fotos", Icons.Default.List),
-        Triple("Top 10", "Video", Icons.Default.Star),
+        Triple("Top 5", "Video", Icons.Default.Star),
         Triple("Web Site", "Web", Icons.Default.Public)
     )
 
@@ -132,7 +132,7 @@ fun MenuLateral(
         }
         
         Text(
-            text = "v1.0.2",
+            text = "v1.1.0",
             style = MaterialTheme.typography.labelSmall,
             color = Color.Gray,
             modifier = Modifier.padding(top = 8.dp)
