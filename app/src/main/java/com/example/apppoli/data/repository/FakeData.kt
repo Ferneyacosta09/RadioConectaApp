@@ -34,10 +34,10 @@ object FakeData {
     )
 
     val videos = listOf(
-        VideoItem(1, "CHÉVERE REMIX - Aria Vega ft. Ryan Castro", imagenRes = R.raw.video_top1),
-        VideoItem(2, "LA VILLA - Ryan Castro ft. Kapo", imagenRes = R.raw.video_top2),
-        VideoItem(3, "Dónde - Kapo ft. Ryan Castro", imagenRes = R.raw.video_top3),
-        VideoItem(4, "El Beneficio De La Duda - Grupo Firme", imagenRes = R.raw.video_top4),
-        VideoItem(5, "Swim - BTS", imagenRes = R.raw.video_top5)
+        VideoItem(1, "CHÉVERE REMIX - Aria Vega ft. Ryan Castro", videoUrl = "https://drive.google.com/uc?export=download&id=1dINOimQLXCbZGCmbEaMVz-CKkR_JCVZn"),
+        VideoItem(2, "LA VILLA - Ryan Castro ft. Kapo", videoUrl = "https://drive.google.com/uc?export=download&id=1GKvjY-BebSLXyXe5aZNe1tBBhX5-rZCW"),
+        VideoItem(3, "Dónde - Kapo ft. Ryan Castro", videoUrl = "https://drive.google.com/uc?export=download&id=1zpD0c4CNEAJo-V_SivMI5k_fyx4CtDuf"),
+        VideoItem(4, "El Beneficio De La Duda - Grupo Firme", videoUrl = "https://drive.google.com/uc?export=download&id=1tgZDYesKQQFQZWT-urjbFUKdMOZc9Mv1"),
+        VideoItem(5, "Swim - BTS", videoUrl = "https://drive.google.com/uc?export=download&id=14RUPSS5eIkbN7IfnLSDd7c36YOq8k5zQ")
     )
 }
